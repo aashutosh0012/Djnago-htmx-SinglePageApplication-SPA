@@ -2,4 +2,4 @@
 Implemented Dynamic Typeahead search results in Django App using htmx
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/aashutosh0012/Djnago-htmx-SinglePageApplication-SPA/blob/main/django-spa-htmx-search.gif)
